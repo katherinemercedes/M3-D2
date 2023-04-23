@@ -1,8 +1,9 @@
 h1 {
-    color: blue;
+    color: red;
 }
 
 li {
-    background-color: yellow;
+    background-color: aquamarine;
+    list-style-type: square;
     
 }
